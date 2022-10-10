@@ -1,0 +1,574 @@
+.o{
+    animation-delay: 0.8s;
+}
+.s{
+    animation-delay: 1s;
+}
+.t{
+    animation-delay: 0.2s;}
+.r{
+    animation-delay: 0.3s;}
+.p{
+    animation-delay: 0.6s;
+}
+.k{
+    animation-delay: 0.8s;
+}
+#a{
+    background: aliceblue;
+    font-family: 'Roboto Slab', serif;
+}
+.a1{
+    background: antiquewhite;
+    font-family: 'Abyssinica SIL', serif;
+
+}
+.a2{
+   background: aqua; 
+   font-family: 'Libre Baskerville', serif;
+}
+.a3{
+    background: aquamarine;
+    font-family: 'Abyssinica SIL', serif;
+}
+.a4{
+    background: azure;
+    font-family: 'Alkalami', serif;
+}
+.a5{
+    background: beige;
+    font-family: 'Abyssinica SIL', sans-serif;
+}
+.a6{
+    background: bisque;
+    font-family: 'Inter Tight', sans-serif;
+}
+.a7{
+    background: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.a8{
+    background: blanchedalmond;
+    font-family: 'Montserrat', sans-serif;
+}
+.a9{
+    background: blue;
+    font-family: 'Montserrat', sans-serif;
+}
+.a10{
+    background: blueviolet;
+    font-family: 'Oswald', sans-serif;
+}
+.a11{
+    background: brown;
+    font-family: 'Peralta', cursive;
+}
+.a12{
+    background: burlywood;
+    font-family: 'Peralta', cursive;
+}
+.a13{
+    background: cadetblue;
+    font-family: 'Peralta', cursive;
+}
+.a14{
+    background: chartreuse;
+    font-family: 'Peralta', cursive;
+}
+.a15{
+    background: chocolate;
+    font-family: 'Righteous', cursive;
+}
+.a16{
+    background: coral;
+    font-family: 'Righteous', cursive;
+}
+.a17{
+    background: cornflowerblue;
+    font-family: 'Righteous', cursive;
+}
+.a18{
+    background: cornsilk;
+    font-family: 'Righteous', cursive;
+}
+.a19{
+    background: crimson;
+    font-family: 'Abril Fatface', cursive;
+}
+.a20{
+    background: cyan;
+    font-family: 'Abril Fatface', cursive;
+}
+.a21{
+    background: darkblue;
+    font-family: 'Abril Fatface', cursive;
+}
+[data-a22="a22"]{
+    background: darkcyan;
+    font-family: 'Abril Fatface', cursive;
+}
+[data-a23="a23"]{
+    background: darkgoldenrod;
+    font-family: 'Abril Fatface', cursive;
+}
+[data-a24="a24"]{
+    background:darkgray;
+    font-family: 'Lobster', cursive;
+}
+[data-a25="a25"]{
+    background: darkgreen;
+    font-family: 'Lobster', cursive;
+}
+[data-a26="a26"]{
+    background: darkkhaki;
+    font-family: 'Lobster', cursive;
+}
+[data-a27="a27"]{
+    background: darkmagenta;
+    font-family: 'Lobster', cursive;
+}
+[data-a28="a28"]{
+    background:darkolivegreen;
+    font-family: 'Lobster', cursive;
+}
+[data-a29="a29"]{
+    background: darkorange;
+    font-family: 'Comforter Brush', cursive;
+}
+[data-a30="a30"]{
+    background: darkorchid;
+    font-family: 'Comforter Brush', cursive;
+}
+[data-a31="a31"]{
+    background: darkred;
+    font-family: 'Comforter Brush', cursive;
+}
+[data-a32="a32"]{
+    background: darksalmon;
+    font-family: 'Comforter Brush', cursive;
+}
+[data-a33="a33"]{
+    background: darkseagreen;
+    font-family: 'Comforter Brush', cursive;
+}
+[data-a34="a34"]{
+    background: darkslateblue;
+    font-family: 'Pacifico', cursive;
+}
+[data-a35="a35"]{
+    background: darkslategray;
+    font-family: 'Pacifico', cursive;
+}
+[data-a36="a36"]{
+    background: darkturquoise;
+    font-family: 'Pacifico', cursive;
+}
+[data-a37="a37"]{
+    background: darkviolet;
+    font-family: 'Pacifico', cursive;
+}
+[data-a38="a38"]{
+    background: deeppink;
+    font-family: 'Pacifico', cursive;
+}
+[data-a39="a39"]{
+    background: deepskyblue;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a40="a40"]{
+    background: dimgray;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a41="a41"]{
+    background: dodgerblue;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a42="a42"]{
+    background:firebrick;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a43="a43"]{
+    background: floralwhite;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a44="a44"]{
+    background: forestgreen;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a45="a45"]{
+    background: fuchsia;
+    font-family: 'Passions Conflict', cursive;
+}
+[data-a46="a46"]{
+    background: gainsboro;
+    font-family: 'Indie Flower', cursive;
+}
+[data-a47="a47"]{
+    background: ghostwhite;
+    font-family: 'Indie Flower', cursive;
+}
+[data-a48="a48"]{
+    background: gold;
+    font-family: 'Indie Flower', cursive;
+}
+[data-a49="a49"]{
+    background: goldenrod;
+    font-family: 'Indie Flower', cursive;
+}
+[data-a50="a50"]{
+    background: gray;
+    font-family: 'Indie Flower', cursive;
+}
+#a51{
+    background:green;
+    font-family: 'Caveat', cursive;
+}
+#a52{
+    background:greenyellow;
+    font-family: 'Caveat', cursive;
+}
+#a53{
+    background:honeydew;
+    font-family: 'Caveat', cursive;
+}
+#a54{
+    background:hotpink ;
+    font-family: 'Caveat', cursive;
+}
+#a55{
+    background: indianred;
+    font-family: 'Caveat', cursive;
+}
+#a56{
+    background: indigo;
+    font-family: 'Caveat', cursive;
+}
+#a57{
+    background: ivory;
+    font-family: 'Satisfy', cursive;
+}
+#a58{
+    background:khaki ;
+    font-family: 'Satisfy', cursive;
+}
+#a59{
+    background:lavender ;
+    font-family: 'Satisfy', cursive;
+}
+#a60{
+    background: lavenderblush;
+    font-family: 'Satisfy', cursive;
+}
+#a61{
+    background: lawngreen;
+    font-family: 'Satisfy', cursive;
+}
+#a62{
+    background: lemonchiffon;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a63{
+    background: lightblue;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a64{
+    background: lightcoral;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a65{
+    background: lightcyan;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a66{
+    background: lightgoldenrodyellow;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a67{
+    background: lightgray;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a68{
+    background: lightgreen;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a69{
+    background: lightpink;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a70{
+    background: lightsalmon;
+    font-family: 'Shadows Into Light', cursive;
+}
+#a71{
+    background: lightseagreen;
+    font-family: 'Roboto Mono', monospace;
+}
+#a72{
+    background: lightskyblue;
+    font-family: 'Roboto Mono', monospace;
+}
+#a73{
+    background: lightslategray;
+    font-family: 'Roboto Mono', monospace;
+}
+#a74{
+    background: lightsteelblue;
+    font-family: 'Roboto Mono', monospace;
+}
+#a75{
+    background:lightyellow ;
+    font-family: 'Roboto Mono', monospace;
+}
+#a76{
+    background: lime;
+    font-family: 'Roboto Mono', monospace;
+}
+.a77{
+    background: limegreen;
+    font-family: 'Roboto Mono', monospace;
+}
+.a78{
+    background: linen;
+    font-family: 'Space Mono', monospace;
+}
+.a79{
+    background:magenta ;
+    font-family: 'Space Mono', monospace;
+}
+.a80{
+    background: maroon;
+    font-family: 'Space Mono', monospace;
+}
+.a81{
+    background: mediumaquamarine;
+    font-family: 'Space Mono', monospace;
+}
+.a82{
+    background:mediumblue ;
+    font-family: 'Space Mono', monospace;
+}
+.a83{
+    background: mediumorchid;
+    font-family: 'Space Mono', monospace;
+}
+.a84{
+    background: mediumpurple;
+    font-family: 'Space Mono', monospace;
+}
+.a85{
+    background: mediumseagreen;
+    font-family: 'Source Code Pro', monospace;
+}
+.a86{
+    background: mediumspringgreen;
+    font-family: 'Source Code Pro', monospace;
+}
+.a87{
+    background: mediumturquoise;
+    font-family: 'Source Code Pro', monospace;
+}
+.a88{
+    background: mediumvioletred;
+    font-family: 'Source Code Pro', monospace;
+}
+.a89{
+    background: midnightblue;
+    font-family: 'Source Code Pro', monospace;
+}
+.a90{
+    background:mintcream;
+    font-family: 'Source Code Pro', monospace;
+}
+.a91{
+    background: mistyrose;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a92{
+    background: moccasin;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a93{
+    background: navajowhite;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a94{
+    background: navy;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a95{
+    background: oldlace;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a96{
+    background: olive;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a97{
+    background: olivedrab;
+    font-family: 'Ubuntu Mono', monospace;
+}
+.a98{
+    background: orange;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+.a99{
+    background: orangered;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+.a100{
+    background: orchid;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+[data-a101="a101"]{
+    background:palegoldenrod;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+[data-a102="a102"]{
+    background: palegreen;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+[data-a103="a103"]{
+    background: paleturquoise;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+[data-a104="a104"]{
+    background:palevioletred ;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+[data-a105="a105"]{
+    background:papayawhip ;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+[data-a106="a106"]{
+    background: peachpuff;
+    font-family: 'Montserrat', sans-serif;
+}
+[data-a107="a107"]{
+    background: peru;
+    font-family: 'Montserrat', sans-serif;
+}
+[data-a108="a108"]{
+    background: pink;
+    font-family: 'Montserrat', sans-serif;
+}
+[data-a109="a109"]{
+    background: plum;
+    font-family: 'Montserrat', sans-serif;
+}
+[data-a110="a110"]{
+    background: powderblue;
+    font-family: 'Montserrat', sans-serif;
+}
+[data-a111="a111"]{
+    background:purple ;
+    font-family: 'Great Vibes', cursive;
+}
+[data-a112="a112"]{
+    background: rebeccapurple;
+    font-family: 'Great Vibes', cursive;
+}
+[data-a113="a113"]{
+    background: red;
+    font-family: 'Great Vibes', cursive;
+}
+[data-a114="a114"]{
+    background: rosybrown;
+    font-family: 'Great Vibes', cursive;
+}
+[data-a115="a115"]{
+    background:royalblue ;
+    font-family: 'Great Vibes', cursive;
+}
+[data-a116="a116"]{
+    background: saddlebrown;
+    font-family: 'Great Vibes', cursive;
+}
+[data-a117="a117"]{
+    background: salmon;
+    font-family: 'Permanent Marker', cursive;
+}
+[data-a118="a118"]{
+    background:saddlebrown;
+    font-family: 'Permanent Marker', cursive;
+}
+[data-a119="a119"]{
+    background: seagreen;
+    font-family: 'Permanent Marker', cursive;
+}
+[data-a120="a120"]{
+    background:seashell ;
+    font-family: 'Permanent Marker', cursive;
+}
+#a121{
+    background: sienna;
+    font-family: 'Permanent Marker', cursive;
+}
+#a122{
+    background:silver ;
+    font-family: 'Permanent Marker', cursive;
+}
+#a123{
+    background:skyblue ;
+    font-family: 'Dancing Script', cursive;
+}
+#a124{
+    background: slateblue;
+    font-family: 'Dancing Script', cursive;
+}
+#a125{
+    background: slategray;
+    font-family: 'Yellowtail', cursive;
+}
+#a126{
+    background: snow;
+    font-family: 'Yellowtail', cursive;
+}
+#a127{
+    background: springgreen;
+}
+#a128{
+    background: steelblue;
+}
+#a129{
+    background: tan;
+}
+#a130{
+    background: teal;
+}
+#a131{
+    background: thistle;
+    font-family: 'Yellowtail', cursive;
+}
+#a132{
+    background: tomato;
+    font-family: 'Yellowtail', cursive;
+}
+#a133{
+    background: turquoise;
+    font-family: 'Permanent Marker', cursive;
+}
+#a134{
+    background: violet;
+    font-family: 'Caveat', cursive;
+}
+#a135{
+    background: wheat;
+    font-family: 'Caveat', cursive;
+}
+#a136{
+    background: white;
+    font-family: 'Caveat', cursive;
+}
+#a137{
+    background: whitesmoke;
+    font-family: 'Dancing Script', cursive;
+}
+#a138{
+    background: yellow;
+    font-family: 'Great Vibes', cursive;
+}
+#a139{
+    background: yellowgreen;
+    font-family: 'Dancing Script', cursive;
+}
