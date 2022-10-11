@@ -1,574 +1,703 @@
-.o{
-    animation-delay: 0.8s;
-}
-.s{
-    animation-delay: 1s;
-}
-.t{
-    animation-delay: 0.2s;}
-.r{
-    animation-delay: 0.3s;}
-.p{
-    animation-delay: 0.6s;
-}
-.k{
-    animation-delay: 0.8s;
-}
+
+
 #a{
     background: aliceblue;
     font-family: 'Roboto Slab', serif;
+    animation-delay: 0.1s;
 }
 .a1{
     background: antiquewhite;
     font-family: 'Abyssinica SIL', serif;
+    animation-delay: 0.2s;
 
 }
 .a2{
    background: aqua; 
    font-family: 'Libre Baskerville', serif;
+   animation-delay: 0.3s;
 }
 .a3{
     background: aquamarine;
     font-family: 'Abyssinica SIL', serif;
+    animation-delay: 0.4s;
 }
 .a4{
     background: azure;
     font-family: 'Alkalami', serif;
+    animation-delay: 0.5s;
 }
 .a5{
     background: beige;
     font-family: 'Abyssinica SIL', sans-serif;
+    animation-delay: 0.6s;
 }
 .a6{
     background: bisque;
     font-family: 'Inter Tight', sans-serif;
+    animation-delay: 0.7s;
 }
 .a7{
     background: black;
     color: white;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 0.8s;
 }
 .a8{
     background: blanchedalmond;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 0.9s;
 }
 .a9{
     background: blue;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 1.0s;
 }
 .a10{
     background: blueviolet;
     font-family: 'Oswald', sans-serif;
+    animation-delay: 1.1s;
+
 }
 .a11{
     background: brown;
     font-family: 'Peralta', cursive;
+    animation-delay: 1.2s;
+
 }
 .a12{
     background: burlywood;
     font-family: 'Peralta', cursive;
+    animation-delay: 1.3s;
 }
 .a13{
     background: cadetblue;
     font-family: 'Peralta', cursive;
+    animation-delay: 1.4s;
 }
 .a14{
     background: chartreuse;
     font-family: 'Peralta', cursive;
+    animation-delay: 1.5s;
 }
 .a15{
     background: chocolate;
     font-family: 'Righteous', cursive;
+    animation-delay: 1.6s;
 }
 .a16{
     background: coral;
     font-family: 'Righteous', cursive;
+    animation-delay: 1.7s;
 }
 .a17{
     background: cornflowerblue;
     font-family: 'Righteous', cursive;
+    animation-delay: 1.8s;
 }
 .a18{
     background: cornsilk;
     font-family: 'Righteous', cursive;
+    animation-delay: 1.9s;
 }
 .a19{
     background: crimson;
     font-family: 'Abril Fatface', cursive;
+    animation-delay: 2.0s;
 }
 .a20{
     background: cyan;
     font-family: 'Abril Fatface', cursive;
+    animation-delay: 2.1s;
 }
 .a21{
     background: darkblue;
     font-family: 'Abril Fatface', cursive;
+    animation-delay: 2.2s;
 }
 [data-a22="a22"]{
     background: darkcyan;
     font-family: 'Abril Fatface', cursive;
+    animation-delay: 2.3s;
 }
 [data-a23="a23"]{
     background: darkgoldenrod;
     font-family: 'Abril Fatface', cursive;
+    animation-delay: 2.4s;
 }
 [data-a24="a24"]{
     background:darkgray;
     font-family: 'Lobster', cursive;
+    animation-delay: 2.5s;
 }
 [data-a25="a25"]{
     background: darkgreen;
     font-family: 'Lobster', cursive;
+    animation-delay: 2.6s;
 }
 [data-a26="a26"]{
     background: darkkhaki;
     font-family: 'Lobster', cursive;
+    animation-delay: 2.7s;
 }
 [data-a27="a27"]{
     background: darkmagenta;
     font-family: 'Lobster', cursive;
+    animation-delay: 2.8s;
 }
 [data-a28="a28"]{
     background:darkolivegreen;
     font-family: 'Lobster', cursive;
+    animation-delay: 2.9s;
 }
 [data-a29="a29"]{
     background: darkorange;
     font-family: 'Comforter Brush', cursive;
+    animation-delay: 3.0s;
 }
 [data-a30="a30"]{
     background: darkorchid;
     font-family: 'Comforter Brush', cursive;
+    animation-delay: 3.1s;
 }
 [data-a31="a31"]{
     background: darkred;
     font-family: 'Comforter Brush', cursive;
+    animation-delay: 3.2s;
 }
 [data-a32="a32"]{
     background: darksalmon;
     font-family: 'Comforter Brush', cursive;
+    animation-delay: 3.3s;
 }
 [data-a33="a33"]{
     background: darkseagreen;
     font-family: 'Comforter Brush', cursive;
+    animation-delay: 3.4s;
 }
 [data-a34="a34"]{
     background: darkslateblue;
     font-family: 'Pacifico', cursive;
+    animation-delay: 3.5s;
 }
 [data-a35="a35"]{
     background: darkslategray;
     font-family: 'Pacifico', cursive;
+    animation-delay: 3.6s;
 }
 [data-a36="a36"]{
     background: darkturquoise;
     font-family: 'Pacifico', cursive;
+    animation-delay: 3.7s;
 }
 [data-a37="a37"]{
     background: darkviolet;
     font-family: 'Pacifico', cursive;
+    animation-delay: 3.8s;
 }
 [data-a38="a38"]{
     background: deeppink;
     font-family: 'Pacifico', cursive;
+    animation-delay: 3.9s;
 }
 [data-a39="a39"]{
     background: deepskyblue;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.0s;
 }
 [data-a40="a40"]{
     background: dimgray;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.1s;
 }
 [data-a41="a41"]{
     background: dodgerblue;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.2s;
 }
 [data-a42="a42"]{
     background:firebrick;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.3s;
 }
 [data-a43="a43"]{
     background: floralwhite;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.4s;
 }
 [data-a44="a44"]{
     background: forestgreen;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.5s;
 }
 [data-a45="a45"]{
     background: fuchsia;
     font-family: 'Passions Conflict', cursive;
+    animation-delay: 4.6s;
 }
 [data-a46="a46"]{
     background: gainsboro;
     font-family: 'Indie Flower', cursive;
+    animation-delay: 4.7s;
 }
 [data-a47="a47"]{
     background: ghostwhite;
     font-family: 'Indie Flower', cursive;
+    animation-delay: 4.8s;
 }
 [data-a48="a48"]{
     background: gold;
     font-family: 'Indie Flower', cursive;
+    animation-delay: 4.9s;
 }
 [data-a49="a49"]{
     background: goldenrod;
     font-family: 'Indie Flower', cursive;
+    animation-delay: 5.0s;
 }
 [data-a50="a50"]{
     background: gray;
     font-family: 'Indie Flower', cursive;
+    animation-delay: 5.1s;
 }
 #a51{
     background:green;
     font-family: 'Caveat', cursive;
+    animation-delay: 5.2s;
 }
 #a52{
     background:greenyellow;
     font-family: 'Caveat', cursive;
+    animation-delay: 5.3s;
 }
 #a53{
     background:honeydew;
     font-family: 'Caveat', cursive;
+    animation-delay: 5.4s;
 }
 #a54{
     background:hotpink ;
     font-family: 'Caveat', cursive;
+    animation-delay: 5.5s;
 }
 #a55{
     background: indianred;
     font-family: 'Caveat', cursive;
+    animation-delay: 5.6s;
 }
 #a56{
     background: indigo;
     font-family: 'Caveat', cursive;
+    animation-delay: 5.7s;
 }
 #a57{
     background: ivory;
     font-family: 'Satisfy', cursive;
+    animation-delay: 5.8s;
 }
 #a58{
     background:khaki ;
     font-family: 'Satisfy', cursive;
+    animation-delay: 5.9s;
 }
 #a59{
     background:lavender ;
     font-family: 'Satisfy', cursive;
+    animation-delay: 6.0s;
 }
 #a60{
     background: lavenderblush;
     font-family: 'Satisfy', cursive;
+    animation-delay: 6.1s;
 }
 #a61{
     background: lawngreen;
     font-family: 'Satisfy', cursive;
+    animation-delay: 6.2s;
 }
 #a62{
     background: lemonchiffon;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.3s;
 }
 #a63{
     background: lightblue;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.4s;
 }
 #a64{
     background: lightcoral;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.5s;
 }
 #a65{
     background: lightcyan;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.6s;
 }
 #a66{
     background: lightgoldenrodyellow;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.7s;
 }
 #a67{
     background: lightgray;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.8s;
 }
 #a68{
     background: lightgreen;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 6.9s;
 }
 #a69{
     background: lightpink;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 7.0s;
 }
 #a70{
     background: lightsalmon;
     font-family: 'Shadows Into Light', cursive;
+    animation-delay: 7.1s;
+
 }
 #a71{
     background: lightseagreen;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.2s;
 }
 #a72{
     background: lightskyblue;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.3s;
 }
 #a73{
     background: lightslategray;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.4s;
 }
 #a74{
     background: lightsteelblue;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.5s;
 }
 #a75{
     background:lightyellow ;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.6s;
 }
 #a76{
     background: lime;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.7s;
 }
 .a77{
     background: limegreen;
     font-family: 'Roboto Mono', monospace;
+    animation-delay: 7.8s;
 }
 .a78{
     background: linen;
     font-family: 'Space Mono', monospace;
+    animation-delay: 7.9s;
 }
 .a79{
     background:magenta ;
     font-family: 'Space Mono', monospace;
+    animation-delay: 8.0s;
 }
 .a80{
     background: maroon;
     font-family: 'Space Mono', monospace;
+    animation-delay: 8.1s;
 }
 .a81{
     background: mediumaquamarine;
     font-family: 'Space Mono', monospace;
+    animation-delay: 8.2s;
 }
 .a82{
     background:mediumblue ;
     font-family: 'Space Mono', monospace;
+    animation-delay: 8.3s;
 }
 .a83{
     background: mediumorchid;
     font-family: 'Space Mono', monospace;
+    animation-delay: 8.4s;
 }
 .a84{
     background: mediumpurple;
     font-family: 'Space Mono', monospace;
+    animation-delay: 8.5s;
 }
 .a85{
     background: mediumseagreen;
     font-family: 'Source Code Pro', monospace;
+    animation-delay: 8.6s;
 }
 .a86{
     background: mediumspringgreen;
     font-family: 'Source Code Pro', monospace;
+    animation-delay: 8.7s;
 }
 .a87{
     background: mediumturquoise;
     font-family: 'Source Code Pro', monospace;
+    animation-delay: 8.8s;
 }
 .a88{
     background: mediumvioletred;
     font-family: 'Source Code Pro', monospace;
+    animation-delay: 8.9s;
 }
 .a89{
     background: midnightblue;
     font-family: 'Source Code Pro', monospace;
+    animation-delay: 9.0s;
 }
 .a90{
     background:mintcream;
     font-family: 'Source Code Pro', monospace;
+    animation-delay: 9.1s;
 }
 .a91{
     background: mistyrose;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.2s;
 }
 .a92{
     background: moccasin;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.3s;
 }
 .a93{
     background: navajowhite;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.4s;
 }
 .a94{
     background: navy;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.5s;
 }
 .a95{
     background: oldlace;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.6s;
 }
 .a96{
     background: olive;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.7s;
 }
 .a97{
     background: olivedrab;
     font-family: 'Ubuntu Mono', monospace;
+    animation-delay: 9.8s;
 }
 .a98{
     background: orange;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 9.9s;
 }
 .a99{
     background: orangered;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.0s;
 }
 .a100{
     background: orchid;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.1s;
 }
 [data-a101="a101"]{
     background:palegoldenrod;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.2s;
 }
 [data-a102="a102"]{
     background: palegreen;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.3s;
 }
 [data-a103="a103"]{
     background: paleturquoise;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.4s;
 }
 [data-a104="a104"]{
     background:palevioletred ;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.5s;
 }
 [data-a105="a105"]{
     background:papayawhip ;
     font-family: 'Gemunu Libre', sans-serif;
+    animation-delay: 10.6s;
 }
 [data-a106="a106"]{
     background: peachpuff;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 10.7s;
 }
 [data-a107="a107"]{
     background: peru;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 10.8s;
 }
 [data-a108="a108"]{
     background: pink;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 10.9s;
 }
 [data-a109="a109"]{
     background: plum;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 11.0s;
 }
 [data-a110="a110"]{
     background: powderblue;
     font-family: 'Montserrat', sans-serif;
+    animation-delay: 11.1s;
 }
 [data-a111="a111"]{
     background:purple ;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 11.2s;
 }
 [data-a112="a112"]{
     background: rebeccapurple;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 11.3s;
 }
 [data-a113="a113"]{
     background: red;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 11.4s;
 }
 [data-a114="a114"]{
     background: rosybrown;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 11.5s;
 }
 [data-a115="a115"]{
     background:royalblue ;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 11.5s;
 }
 [data-a116="a116"]{
     background: saddlebrown;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 11.6s;
 }
 [data-a117="a117"]{
     background: salmon;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 11.7s;
 }
 [data-a118="a118"]{
     background:saddlebrown;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 11.8s;
 }
 [data-a119="a119"]{
     background: seagreen;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 11.9s;
 }
 [data-a120="a120"]{
     background:seashell ;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 12.0s;
 }
 #a121{
     background: sienna;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 12.1s;
 }
 #a122{
     background:silver ;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 12.2s;
 }
 #a123{
     background:skyblue ;
     font-family: 'Dancing Script', cursive;
+    animation-delay: 12.3s;
 }
 #a124{
     background: slateblue;
     font-family: 'Dancing Script', cursive;
+    animation-delay: 12.4s;
 }
 #a125{
     background: slategray;
     font-family: 'Yellowtail', cursive;
+    animation-delay: 12.5s;
 }
 #a126{
     background: snow;
     font-family: 'Yellowtail', cursive;
+    animation-delay: 12.6s;
 }
 #a127{
     background: springgreen;
+    animation-delay: 12.7s;
 }
 #a128{
     background: steelblue;
+    animation-delay: 12.8s;
 }
 #a129{
     background: tan;
+    animation-delay: 12.9s;
 }
 #a130{
     background: teal;
+    animation-delay: 13.0s;
 }
 #a131{
     background: thistle;
     font-family: 'Yellowtail', cursive;
+    animation-delay: 13.1s;
 }
 #a132{
     background: tomato;
     font-family: 'Yellowtail', cursive;
+    animation-delay: 13.2s;
 }
 #a133{
     background: turquoise;
     font-family: 'Permanent Marker', cursive;
+    animation-delay: 13.3s;
 }
 #a134{
     background: violet;
     font-family: 'Caveat', cursive;
+    animation-delay: 13.4s;
 }
 #a135{
     background: wheat;
     font-family: 'Caveat', cursive;
+    animation-delay: 13.5s;
 }
 #a136{
     background: white;
     font-family: 'Caveat', cursive;
+    animation-delay: 13.6s;
 }
 #a137{
     background: whitesmoke;
     font-family: 'Dancing Script', cursive;
+    animation-delay: 13.7s;
 }
 #a138{
     background: yellow;
     font-family: 'Great Vibes', cursive;
+    animation-delay: 13.8s;
 }
 #a139{
     background: yellowgreen;
     font-family: 'Dancing Script', cursive;
+    animation-delay: 13.9s;
 }
